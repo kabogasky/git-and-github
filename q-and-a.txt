@@ -3,14 +3,20 @@ Answer the following questions:
 
 1. What is your favorite local restaurant?
 
+Moon Thai is my favorite local restaurant.
 
 2. Name the last good book you read (title, author?).
 
+Harry Potter and the Prison of Azkaban is the last book I read.
 
 3. Which album/artist is in heavy rotation on your iPod/iPhone/MP3 player/stream?
 
+Sam Hunt is an artist in heavy rotation on my playlist.
 
 4. Which text/code editor did you decide to use?
 
+I choose to code with Atom.
 
 5. If you were to build a web site for fun, what would it be about?
+
+If I were to build a web site for fun, it would display all my ceramic art pieces.
